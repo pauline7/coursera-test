@@ -5,21 +5,6 @@ body{
 	font-family: 'Oxygen', sans-serif;
 }
 
-h3 {
-	text-align: center;
-}
-
-#box {
-	height: 300px;
-	background-color: #61122f;
-	box-sizing: border-box;
-	overflow: hidden;
-}
-
-.container {
-	height: 80px;
-}
-
 #header-nav{
    background-color: #f6b319;
    border-radius: 0;
@@ -53,13 +38,14 @@ h3 {
 }
 
 #nav-list {
-	color: ;
+	color: #951C49;
 	text-align: center;
 }
 
 #nav-list a:hover {
-background: ;
+background: #E7E7E7;
 }
+
 #nav-list a span {
 	font-size: 1.8em;
 }
@@ -81,16 +67,7 @@ background: ;
 	.navbar-brand h1 {
 		padding-top: 10px;font-size: 5vw;
 	}
-	#collapsable-nav a {
-		font-size: 1.2em;
-	}
-	#collapsable-nav a span {
-		font-size: 1em;
-	}
-	.margin-right: 5px
 }
-
-
 
 
 
