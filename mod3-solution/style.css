@@ -9,6 +9,10 @@ h3 {
 	text-align: center;
 }
 
+a {
+	background-color: #61122f;
+}
+
 #box {
 	height: 300px;
 	background-color: #61122f;
@@ -58,7 +62,7 @@ h3 {
 }
 
 #nav-list a:hover {
-background: ;
+background: #557c3e;
 }
 #nav-list a span {
 	font-size: 1.8em;
