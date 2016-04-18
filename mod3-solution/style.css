@@ -1,7 +1,7 @@
 body{
 	font-size: 16px;
 	color: #fff; 
-	background-color: #611;
+	background-color: #12063D;
 	font-family: 'Oxygen', sans-serif;
 }
 
@@ -15,7 +15,13 @@ a {
 
 .container-fluid {
 	margin-top: 80px;
+
 }
+.navbar {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
 
 .row {
 	margin-bottom: 15px;
@@ -32,7 +38,7 @@ margin left: 50px;
 }
 
 #header-nav{
-   background-color: #f6b319;
+   background-color: #986FE1;
    border-radius: 0;
    border: 0;
 }
@@ -40,12 +46,12 @@ margin left: 50px;
 
 .navbar-brand{
 
-	padding-top: 25px;
+	padding-top: 0px;
 }
 
 .navbar-brand h1 {
 	font-family: 'Lora', serif;
-	color: #557c3e;
+	color: #087324;
 	font-size: 1.5em;
 	text-transform: uppercase;
 	font-weight: bold;
@@ -69,7 +75,7 @@ margin left: 50px;
 }
 
 #nav-list a:hover {
-background: #557c3e;
+background: #5D3387;
 }
 #nav-list a span {
 	font-size: 1.8em;
@@ -81,10 +87,10 @@ background: #557c3e;
 
 .navbar-header button.navbar-toogle {
 	clear: both;/*cant see the effect yet review lect.32*/
-    margin-top: -30px;
+    margin-top:;
 }
 
- @media (max-width: 767) {
+/* @media (max-width: 767) {
 	.navbar-brand {
 		padding-top: 10px;
 		height: 80px
@@ -100,7 +106,7 @@ background: #557c3e;
 	}
 	.margin-right: 5px
 } 
-
+*/
 
 
 
